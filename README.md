@@ -62,7 +62,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![alt text](<../Screenshot (176).png>)
+<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/378822d5-d6fe-47e6-b743-767f49e14189" />
+
 
 ```
 
